@@ -1,2 +1,2 @@
-# ebookProject
-OpenLibrary web application
+Java Project - "E-Book Management System" 
+using JDBC, Servlet, JSP
